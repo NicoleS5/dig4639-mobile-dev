@@ -8,6 +8,7 @@ class Component {
         console.log("Clicked");
     }
     render() {
+        this.addOne();
         return `<div></div>`;
     }
 
