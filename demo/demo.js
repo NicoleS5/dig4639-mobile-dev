@@ -2,7 +2,7 @@ class Pet {
     constructor(props) {
         this.props = props;
     }
-    getName() {
+    getName() { 
         return this.props.name;
     }
     getSpecies() {
