@@ -1,0 +1,28 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 80%;
+  margin: auto;
+  text-align: center;
+  padding: 1em;
+  color: white;
+  background-color: rgb(149, 200, 202);
+  margin-top: 15px;
+  border-radius: 30px;
+}
+
+.title {
+  color: rgb(38, 30, 77);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-style: italic;
+}
+
+.close {
+  font-size: 1.5em;
+  float: right;
+  cursor: pointer;
+}
+
+body {
+  background-color: rgb(100, 121, 160);
+}
